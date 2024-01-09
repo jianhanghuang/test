@@ -1,10 +1,10 @@
-##MED5018_Group1
+## MED5018_Group1
 This repository contains the final project of Group 5 for the MED5018 course at ？？？.The team members are ？？？
 
-##Project Overview
+## Project Overview
 The project aims to
 
-##Dependencies
+## Dependencies
 * pandas
 * numpy
 * matplotlib.pyplot
@@ -14,16 +14,16 @@ The project aims to
 * sklearn.cluster.KMeans
 * sklearn.decomposition.PCA
 
-##Key Findings
+## Key Findings
 The project yielded several important findings:
-#####1.
-#####2.
-#####3.
-##Visualizations 
+##### 1.
+##### 2.
+##### 3.
+## Visualizations 
 ![mahua](mahua-logo.jpg)
 
 
-##Team
+## Team
 
 ```javascript
 Hanchun.L
